@@ -1,4 +1,4 @@
-# RPG Discord Bot
+# TavernBot. A RPG Discord Bot.
 
 A Discord bot featuring dice rolling and automated battle mechanics for tabletop-style RPGs, developed in Python using `discord.py`.
 
