@@ -66,4 +66,5 @@ async def debug(ctx):
 async def clear(ctx):
     await rpg_simulator.clear_battles(ctx)
 
-bot.run("xxxx")
+bot.run("YOUR_TOKEN_HERE")
+
